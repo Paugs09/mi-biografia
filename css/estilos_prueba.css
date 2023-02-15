@@ -1,0 +1,12 @@
+/*IMPORTANTE:Siempre poner este código al principio del css.*/
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+main{
+    widht:100%;
+    height: 500px;
+    border:10px solid grey;
+    padding: 20px 35px;
+}
