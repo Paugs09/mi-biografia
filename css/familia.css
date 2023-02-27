@@ -95,11 +95,14 @@ h2
     font-size: 45px;
     text-decoration: none;
     color:  rgb(69, 58, 122);
-    margin-left: 40%;
+    margin-left: 30%;
     font-family: sans-serif;
 }
 
-
+.container_p
+{
+    display: flex;
+}
 
 .container
 {
@@ -112,6 +115,7 @@ h2
     width: 50%;
 }
 
+
 .container2
 {
     margin-top: 20px;
@@ -121,6 +125,11 @@ h2
     margin-left: 15px;
     align-items: center;
     width: 50%;
+}
+
+.container_p2
+{
+    display: flex;
 }
 
 .container3
@@ -133,3 +142,15 @@ h2
     align-items: center;
     width: 50%;
 }
+
+.container4
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+

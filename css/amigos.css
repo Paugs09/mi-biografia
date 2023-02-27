@@ -1,0 +1,175 @@
+*
+{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+body
+{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(255, 227, 255);
+}
+
+.head
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    z-index: 100;
+    position: relative;
+}
+
+.navbar
+{
+    display: flex;
+    margin-right: 10px;
+}
+.logo
+{
+    margin-left: 30px;
+}
+
+.logo a
+{
+    text-decoration: none;
+    color: rgb(150, 127, 253);
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.navbar a 
+{
+    display: block;
+    padding: 20px 20px;
+    color: rgb(150, 127, 253);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.navbar a:hover
+{
+    background: rgb(213, 224, 224);
+}
+
+.header
+{
+    background-color: rgb(255, 227, 255);
+    text-align: center;
+}
+
+.tittle
+{
+    font-size: 25px;
+    font-family:sans-serif;
+    margin-top: 20px;
+}
+
+p
+{
+    font-family: sans-serif;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+article
+{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container_p
+{
+    display: flex;
+}
+
+.container1
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+
+.tittle2
+{
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+}
+
+.container2
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+
+.tittle3
+{
+    font-size: 25px;
+    text-align: center;
+    background-color: blueviolet;
+    color: rgb(0, 0, 0);
+}
+
+.container_p2
+{
+    display: flex;
+}
+
+.container3
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+
+.tittle4
+{
+    font-size: 25px;
+    text-align: center;
+    background-color: blueviolet;
+    color: rgb(0, 0, 0);
+}
+
+.container4
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+
+.tittle5
+{
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+}

@@ -88,3 +88,86 @@ article
     text-align: center;
     margin-top: 20px;
 }
+
+.container_p
+{
+    display: flex;
+}
+
+.container1
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+
+.tittle3
+{
+    font-size: 25px;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.container2
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+
+.tittle4
+{
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+}
+
+.container_p2
+{
+    display: flex;
+}
+
+.container3
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+.tittle5
+{
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+}
+
+.container4
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+}
+
+.tittle6
+{
+    font-size: 25px;
+    text-align: center;
+    background-color: blueviolet;
+}
