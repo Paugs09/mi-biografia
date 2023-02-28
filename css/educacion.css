@@ -94,3 +94,8 @@ h2
     font-family: sans-serif;
     background-color:  rgb(241, 203, 241);;
 }
+@media (max-width:830px){
+    body img{
+        height: 200px;
+    }
+}
