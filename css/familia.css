@@ -71,6 +71,7 @@ body
     font-size: 25px;
     font-family:sans-serif;
     margin-top: 20px;
+    background-color: rgb(255, 177, 255);
 }
 
 p
@@ -86,6 +87,7 @@ p
 {
     width: 60%;
     margin: auto;
+    overflow: hidden;
 }
 
 .slider ul
@@ -94,7 +96,7 @@ p
     padding: 0;
     width: 450%;
 
-    animation: cambio 20s infinite;
+    animation: cambio 20s infinite linear;
 }
 
 .slider li
